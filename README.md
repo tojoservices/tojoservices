@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @tojoservices
 - 👀 I’m interested in programming
-- 🌱 I’m currently making softwate
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently making software for specific needs.
 - 📫 reach me on tg @tojoshade
 
 <!---
